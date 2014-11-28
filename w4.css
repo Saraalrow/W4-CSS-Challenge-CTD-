@@ -2,6 +2,9 @@
 /* Sample CSS Document */
 
 #eagleLogo {
+			position: absolute;
+			right:100px;
+			top:10px;
 
 }
 
