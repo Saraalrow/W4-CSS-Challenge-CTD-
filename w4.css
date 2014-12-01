@@ -13,6 +13,7 @@ h1 {
 
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 a:hover {
   color: white;
@@ -42,5 +43,12 @@ a:active {
 >>>>>>> origin/Jung-Sub
 =======
 
+  }
+>>>>>>> origin/Jung-Sub
+=======
+.eslrTitle {
+  color: red;
+  font-weight: bold;
+  font-family: mistral;
   }
 >>>>>>> origin/Jung-Sub
